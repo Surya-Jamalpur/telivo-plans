@@ -2,79 +2,55 @@
   "schemaVersion": 1,
   "operators": {
     "Airtel": {
-      "version": "2026.1",
-      "updatedAt": "2026-08-25",
+      "version": "2026.2",
+      "updatedAt": "2026-10-20T12:00",
       "operator": "Airtel",
+      "note": "Base plans from the list provided on 2026-10-20. Data add-on packs and international roaming packs are excluded.",
       "plans": [
         {
-          "id": "AIR-P-199-28-2",
+          "id": "AIR-P-199-28-2T",
           "operator": "Airtel",
           "name": "₹199 Prepaid",
           "price": 199,
-          "category": "Popular",
+          "category": "Data",
           "validityDays": 28,
-          "dailyDataGB": 0.8,
+          "totalDataGB": 2,
           "unlimitedCalls": true,
-          "smsPerDay": 100,
-          "fiveG": true,
+          "smsPerDay": 0,
+          "fiveG": false,
           "ott": [],
           "benefits": [
             "Unlimited Calls",
-            "100 SMS/day",
-            "Unlimited 5G"
+            "2 GB total"
           ],
           "popular": true,
           "active": true,
           "sortOrder": 1
         },
         {
-          "id": "AIR-P-249-28-1",
+          "id": "AIR-P-219-28-3T",
           "operator": "Airtel",
-          "name": "₹249 Prepaid",
-          "price": 249,
-          "category": "Popular",
+          "name": "₹219 Prepaid",
+          "price": 219,
+          "category": "Data",
           "validityDays": 28,
-          "dailyDataGB": 1,
+          "totalDataGB": 3,
           "unlimitedCalls": true,
-          "smsPerDay": 100,
-          "fiveG": true,
+          "smsPerDay": 0,
+          "fiveG": false,
           "ott": [],
           "benefits": [
             "Unlimited Calls",
-            "100 SMS/day",
-            "Unlimited 5G"
+            "3 GB total"
           ],
           "popular": true,
           "active": true,
           "sortOrder": 2
         },
         {
-          "id": "AIR-P-299-28-1.5",
-          "operator": "Airtel",
-          "name": "₹299 Prepaid",
-          "price": 299,
-          "category": "Popular",
-          "validityDays": 28,
-          "dailyDataGB": 1.5,
-          "unlimitedCalls": true,
-          "smsPerDay": 100,
-          "fiveG": true,
-          "ott": [],
-          "benefits": [
-            "Unlimited Calls",
-            "100 SMS/day",
-            "Unlimited 5G",
-            "Apollo 24|7",
-            "Hello Tunes"
-          ],
-          "popular": true,
-          "active": true,
-          "sortOrder": 3
-        },
-        {
           "id": "AIR-P-349-28-2",
           "operator": "Airtel",
-          "name": "₹349 Prepaid",
+          "name": "₹349 TEST",
           "price": 349,
           "category": "Popular",
           "validityDays": 28,
@@ -85,12 +61,13 @@
           "ott": [],
           "benefits": [
             "Unlimited Calls",
+            "2 GB/day",
             "100 SMS/day",
             "Unlimited 5G"
           ],
           "popular": true,
           "active": true,
-          "sortOrder": 4
+          "sortOrder": 3
         },
         {
           "id": "AIR-P-399-28-2.5",
@@ -106,6 +83,29 @@
           "ott": [],
           "benefits": [
             "Unlimited Calls",
+            "2.5 GB/day",
+            "100 SMS/day",
+            "Unlimited 5G"
+          ],
+          "popular": true,
+          "active": true,
+          "sortOrder": 4
+        },
+        {
+          "id": "AIR-P-449-28-4",
+          "operator": "Airtel",
+          "name": "₹449 Prepaid",
+          "price": 449,
+          "category": "Popular",
+          "validityDays": 28,
+          "dailyDataGB": 4,
+          "unlimitedCalls": true,
+          "smsPerDay": 100,
+          "fiveG": true,
+          "ott": [],
+          "benefits": [
+            "Unlimited Calls",
+            "4 GB/day",
             "100 SMS/day",
             "Unlimited 5G"
           ],
@@ -114,54 +114,12 @@
           "sortOrder": 5
         },
         {
-          "id": "AIR-P-449-28-3",
+          "id": "AIR-P-598-28-2",
           "operator": "Airtel",
-          "name": "₹449 Prepaid",
-          "price": 449,
+          "name": "₹598 Prepaid",
+          "price": 598,
           "category": "Popular",
           "validityDays": 28,
-          "dailyDataGB": 3,
-          "unlimitedCalls": true,
-          "smsPerDay": 100,
-          "fiveG": true,
-          "ott": [],
-          "benefits": [
-            "Unlimited Calls",
-            "100 SMS/day",
-            "Unlimited 5G"
-          ],
-          "popular": true,
-          "active": true,
-          "sortOrder": 6
-        },
-        {
-          "id": "AIR-P-579-56-1.5",
-          "operator": "Airtel",
-          "name": "₹579 Prepaid",
-          "price": 579,
-          "category": "Unlimited",
-          "validityDays": 56,
-          "dailyDataGB": 1.5,
-          "unlimitedCalls": true,
-          "smsPerDay": 100,
-          "fiveG": true,
-          "ott": [],
-          "benefits": [
-            "Unlimited Calls",
-            "100 SMS/day",
-            "Unlimited 5G"
-          ],
-          "popular": true,
-          "active": true,
-          "sortOrder": 7
-        },
-        {
-          "id": "AIR-P-649-56-2",
-          "operator": "Airtel",
-          "name": "₹649 Prepaid",
-          "price": 649,
-          "category": "Unlimited",
-          "validityDays": 56,
           "dailyDataGB": 2,
           "unlimitedCalls": true,
           "smsPerDay": 100,
@@ -169,18 +127,126 @@
           "ott": [],
           "benefits": [
             "Unlimited Calls",
+            "2 GB/day",
             "100 SMS/day",
             "Unlimited 5G"
+          ],
+          "popular": false,
+          "active": true,
+          "sortOrder": 6
+        },
+        {
+          "id": "AIR-P-355-30-25T",
+          "operator": "Airtel",
+          "name": "₹355 Prepaid",
+          "price": 355,
+          "category": "Data",
+          "validityDays": 30,
+          "totalDataGB": 25,
+          "unlimitedCalls": true,
+          "smsPerDay": 0,
+          "fiveG": false,
+          "ott": [],
+          "benefits": [
+            "Unlimited Calls",
+            "25 GB total"
+          ],
+          "popular": false,
+          "active": true,
+          "sortOrder": 7
+        },
+        {
+          "id": "AIR-P-379-30-2",
+          "operator": "Airtel",
+          "name": "₹379 Prepaid",
+          "price": 379,
+          "category": "Popular",
+          "validityDays": 30,
+          "dailyDataGB": 2,
+          "unlimitedCalls": true,
+          "smsPerDay": 100,
+          "fiveG": true,
+          "ott": [],
+          "benefits": [
+            "Unlimited Calls",
+            "2 GB/day",
+            "100 SMS/day",
+            "Unlimited 5G",
+            "Calendar-month validity"
           ],
           "popular": true,
           "active": true,
           "sortOrder": 8
         },
         {
-          "id": "AIR-P-699-56-3",
+          "id": "AIR-P-429-30-2.5",
           "operator": "Airtel",
-          "name": "₹699 Prepaid",
-          "price": 699,
+          "name": "₹429 Prepaid",
+          "price": 429,
+          "category": "Popular",
+          "validityDays": 30,
+          "dailyDataGB": 2.5,
+          "unlimitedCalls": true,
+          "smsPerDay": 100,
+          "fiveG": true,
+          "ott": [],
+          "benefits": [
+            "Unlimited Calls",
+            "2.5 GB/day",
+            "100 SMS/day",
+            "Unlimited 5G",
+            "Calendar-month validity"
+          ],
+          "popular": true,
+          "active": true,
+          "sortOrder": 9
+        },
+        {
+          "id": "AIR-P-589-30-50T",
+          "operator": "Airtel",
+          "name": "₹589 Prepaid",
+          "price": 589,
+          "category": "Data",
+          "validityDays": 30,
+          "totalDataGB": 50,
+          "unlimitedCalls": true,
+          "smsPerDay": 0,
+          "fiveG": false,
+          "ott": [],
+          "benefits": [
+            "Unlimited Calls",
+            "50 GB total"
+          ],
+          "popular": false,
+          "active": true,
+          "sortOrder": 10
+        },
+        {
+          "id": "AIR-P-609-30-60T",
+          "operator": "Airtel",
+          "name": "₹609 Prepaid",
+          "price": 609,
+          "category": "Data",
+          "validityDays": 30,
+          "totalDataGB": 60,
+          "unlimitedCalls": true,
+          "smsPerDay": 0,
+          "fiveG": false,
+          "ott": [],
+          "benefits": [
+            "Unlimited Calls",
+            "60 GB total",
+            "Calendar-month validity"
+          ],
+          "popular": false,
+          "active": true,
+          "sortOrder": 11
+        },
+        {
+          "id": "AIR-P-838-56-3",
+          "operator": "Airtel",
+          "name": "₹838 Prepaid",
+          "price": 838,
           "category": "Unlimited",
           "validityDays": 56,
           "dailyDataGB": 3,
@@ -190,33 +256,13 @@
           "ott": [],
           "benefits": [
             "Unlimited Calls",
+            "3 GB/day",
             "100 SMS/day",
             "Unlimited 5G"
           ],
           "popular": true,
           "active": true,
-          "sortOrder": 9
-        },
-        {
-          "id": "AIR-P-859-84-1.5",
-          "operator": "Airtel",
-          "name": "₹859 Prepaid",
-          "price": 859,
-          "category": "Long Validity",
-          "validityDays": 84,
-          "dailyDataGB": 1.5,
-          "unlimitedCalls": true,
-          "smsPerDay": 100,
-          "fiveG": true,
-          "ott": [],
-          "benefits": [
-            "Unlimited Calls",
-            "100 SMS/day",
-            "Unlimited 5G"
-          ],
-          "popular": true,
-          "active": true,
-          "sortOrder": 10
+          "sortOrder": 12
         },
         {
           "id": "AIR-P-979-84-2",
@@ -232,12 +278,13 @@
           "ott": [],
           "benefits": [
             "Unlimited Calls",
+            "2 GB/day",
             "100 SMS/day",
             "Unlimited 5G"
           ],
           "popular": true,
           "active": true,
-          "sortOrder": 11
+          "sortOrder": 13
         },
         {
           "id": "AIR-P-1199-84-2.5",
@@ -253,18 +300,103 @@
           "ott": [],
           "benefits": [
             "Unlimited Calls",
+            "2.5 GB/day",
             "100 SMS/day",
             "Unlimited 5G"
           ],
           "popular": true,
           "active": true,
-          "sortOrder": 12
+          "sortOrder": 14
         },
         {
-          "id": "AIR-P-1999-365-2",
+          "id": "AIR-P-1729-84-2",
           "operator": "Airtel",
-          "name": "₹1999 Annual",
-          "price": 1999,
+          "name": "₹1729 Prepaid",
+          "price": 1729,
+          "category": "Long Validity",
+          "validityDays": 84,
+          "dailyDataGB": 2,
+          "unlimitedCalls": true,
+          "smsPerDay": 100,
+          "fiveG": true,
+          "ott": [],
+          "benefits": [
+            "Unlimited Calls",
+            "2 GB/day",
+            "100 SMS/day",
+            "Unlimited 5G"
+          ],
+          "popular": false,
+          "active": true,
+          "sortOrder": 15
+        },
+        {
+          "id": "AIR-P-1798-84-3",
+          "operator": "Airtel",
+          "name": "₹1798 Prepaid",
+          "price": 1798,
+          "category": "Long Validity",
+          "validityDays": 84,
+          "dailyDataGB": 3,
+          "unlimitedCalls": true,
+          "smsPerDay": 100,
+          "fiveG": true,
+          "ott": [],
+          "benefits": [
+            "Unlimited Calls",
+            "3 GB/day",
+            "100 SMS/day",
+            "Unlimited 5G"
+          ],
+          "popular": false,
+          "active": true,
+          "sortOrder": 16
+        },
+        {
+          "id": "AIR-P-1849-365-V",
+          "operator": "Airtel",
+          "name": "₹1849 Prepaid",
+          "price": 1849,
+          "category": "Voice",
+          "validityDays": 365,
+          "unlimitedCalls": true,
+          "smsPerDay": 0,
+          "fiveG": false,
+          "ott": [],
+          "benefits": [
+            "Unlimited Calls",
+            "3600 SMS total",
+            "No data"
+          ],
+          "popular": false,
+          "active": true,
+          "sortOrder": 17
+        },
+        {
+          "id": "AIR-P-2249-365-30T",
+          "operator": "Airtel",
+          "name": "₹2249 Prepaid",
+          "price": 2249,
+          "category": "Long Validity",
+          "validityDays": 365,
+          "totalDataGB": 30,
+          "unlimitedCalls": true,
+          "smsPerDay": 0,
+          "fiveG": false,
+          "ott": [],
+          "benefits": [
+            "Unlimited Calls",
+            "30 GB total"
+          ],
+          "popular": false,
+          "active": true,
+          "sortOrder": 18
+        },
+        {
+          "id": "AIR-P-3599-365-2",
+          "operator": "Airtel",
+          "name": "₹3599 Prepaid",
+          "price": 3599,
           "category": "Long Validity",
           "validityDays": 365,
           "dailyDataGB": 2,
@@ -274,18 +406,19 @@
           "ott": [],
           "benefits": [
             "Unlimited Calls",
+            "2 GB/day",
             "100 SMS/day",
             "Unlimited 5G"
           ],
           "popular": true,
           "active": true,
-          "sortOrder": 13
+          "sortOrder": 19
         },
         {
-          "id": "AIR-P-3599-365-2.5",
+          "id": "AIR-P-3999-365-2.5",
           "operator": "Airtel",
-          "name": "₹3599 Annual",
-          "price": 3599,
+          "name": "₹3999 Prepaid",
+          "price": 3999,
           "category": "Long Validity",
           "validityDays": 365,
           "dailyDataGB": 2.5,
@@ -295,12 +428,13 @@
           "ott": [],
           "benefits": [
             "Unlimited Calls",
+            "2.5 GB/day",
             "100 SMS/day",
             "Unlimited 5G"
           ],
           "popular": true,
           "active": true,
-          "sortOrder": 14
+          "sortOrder": 20
         }
       ]
     },
