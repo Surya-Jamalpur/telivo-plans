@@ -3,7 +3,7 @@
   "operators": {
     "Airtel": {
       "version": "2026.2",
-      "updatedAt": "2026-10-20T14:00",
+      "updatedAt": "2026-10-20T15:00",
       "operator": "Airtel",
       "note": "Base plans from the list provided on 2026-10-20. Data add-on packs and international roaming packs are excluded.",
       "plans": [
@@ -54,7 +54,7 @@
           "price": 349,
           "category": "Popular",
           "validityDays": 28,
-          "dailyDataGB": 9,
+          "dailyDataGB": 2,
           "unlimitedCalls": true,
           "smsPerDay": 100,
           "fiveG": true,
