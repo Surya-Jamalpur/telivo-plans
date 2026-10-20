@@ -1,0 +1,990 @@
+{
+  "schemaVersion": 1,
+  "operators": {
+    "Airtel": {
+      "version": "2026.1",
+      "updatedAt": "2026-08-25",
+      "operator": "Airtel",
+      "plans": [
+        {
+          "id": "AIR-P-199-28-2",
+          "operator": "Airtel",
+          "name": "₹199 Prepaid",
+          "price": 199,
+          "category": "Popular",
+          "validityDays": 28,
+          "dailyDataGB": 0.8,
+          "unlimitedCalls": true,
+          "smsPerDay": 100,
+          "fiveG": true,
+          "ott": [],
+          "benefits": [
+            "Unlimited Calls",
+            "100 SMS/day",
+            "Unlimited 5G"
+          ],
+          "popular": true,
+          "active": true,
+          "sortOrder": 1
+        },
+        {
+          "id": "AIR-P-249-28-1",
+          "operator": "Airtel",
+          "name": "₹249 Prepaid",
+          "price": 249,
+          "category": "Popular",
+          "validityDays": 28,
+          "dailyDataGB": 1,
+          "unlimitedCalls": true,
+          "smsPerDay": 100,
+          "fiveG": true,
+          "ott": [],
+          "benefits": [
+            "Unlimited Calls",
+            "100 SMS/day",
+            "Unlimited 5G"
+          ],
+          "popular": true,
+          "active": true,
+          "sortOrder": 2
+        },
+        {
+          "id": "AIR-P-299-28-1.5",
+          "operator": "Airtel",
+          "name": "₹299 Prepaid",
+          "price": 299,
+          "category": "Popular",
+          "validityDays": 28,
+          "dailyDataGB": 1.5,
+          "unlimitedCalls": true,
+          "smsPerDay": 100,
+          "fiveG": true,
+          "ott": [],
+          "benefits": [
+            "Unlimited Calls",
+            "100 SMS/day",
+            "Unlimited 5G",
+            "Apollo 24|7",
+            "Hello Tunes"
+          ],
+          "popular": true,
+          "active": true,
+          "sortOrder": 3
+        },
+        {
+          "id": "AIR-P-349-28-2",
+          "operator": "Airtel",
+          "name": "₹349 Prepaid",
+          "price": 349,
+          "category": "Popular",
+          "validityDays": 28,
+          "dailyDataGB": 2,
+          "unlimitedCalls": true,
+          "smsPerDay": 100,
+          "fiveG": true,
+          "ott": [],
+          "benefits": [
+            "Unlimited Calls",
+            "100 SMS/day",
+            "Unlimited 5G"
+          ],
+          "popular": true,
+          "active": true,
+          "sortOrder": 4
+        },
+        {
+          "id": "AIR-P-399-28-2.5",
+          "operator": "Airtel",
+          "name": "₹399 Prepaid",
+          "price": 399,
+          "category": "Popular",
+          "validityDays": 28,
+          "dailyDataGB": 2.5,
+          "unlimitedCalls": true,
+          "smsPerDay": 100,
+          "fiveG": true,
+          "ott": [],
+          "benefits": [
+            "Unlimited Calls",
+            "100 SMS/day",
+            "Unlimited 5G"
+          ],
+          "popular": true,
+          "active": true,
+          "sortOrder": 5
+        },
+        {
+          "id": "AIR-P-449-28-3",
+          "operator": "Airtel",
+          "name": "₹449 Prepaid",
+          "price": 449,
+          "category": "Popular",
+          "validityDays": 28,
+          "dailyDataGB": 3,
+          "unlimitedCalls": true,
+          "smsPerDay": 100,
+          "fiveG": true,
+          "ott": [],
+          "benefits": [
+            "Unlimited Calls",
+            "100 SMS/day",
+            "Unlimited 5G"
+          ],
+          "popular": true,
+          "active": true,
+          "sortOrder": 6
+        },
+        {
+          "id": "AIR-P-579-56-1.5",
+          "operator": "Airtel",
+          "name": "₹579 Prepaid",
+          "price": 579,
+          "category": "Unlimited",
+          "validityDays": 56,
+          "dailyDataGB": 1.5,
+          "unlimitedCalls": true,
+          "smsPerDay": 100,
+          "fiveG": true,
+          "ott": [],
+          "benefits": [
+            "Unlimited Calls",
+            "100 SMS/day",
+            "Unlimited 5G"
+          ],
+          "popular": true,
+          "active": true,
+          "sortOrder": 7
+        },
+        {
+          "id": "AIR-P-649-56-2",
+          "operator": "Airtel",
+          "name": "₹649 Prepaid",
+          "price": 649,
+          "category": "Unlimited",
+          "validityDays": 56,
+          "dailyDataGB": 2,
+          "unlimitedCalls": true,
+          "smsPerDay": 100,
+          "fiveG": true,
+          "ott": [],
+          "benefits": [
+            "Unlimited Calls",
+            "100 SMS/day",
+            "Unlimited 5G"
+          ],
+          "popular": true,
+          "active": true,
+          "sortOrder": 8
+        },
+        {
+          "id": "AIR-P-699-56-3",
+          "operator": "Airtel",
+          "name": "₹699 Prepaid",
+          "price": 699,
+          "category": "Unlimited",
+          "validityDays": 56,
+          "dailyDataGB": 3,
+          "unlimitedCalls": true,
+          "smsPerDay": 100,
+          "fiveG": true,
+          "ott": [],
+          "benefits": [
+            "Unlimited Calls",
+            "100 SMS/day",
+            "Unlimited 5G"
+          ],
+          "popular": true,
+          "active": true,
+          "sortOrder": 9
+        },
+        {
+          "id": "AIR-P-859-84-1.5",
+          "operator": "Airtel",
+          "name": "₹859 Prepaid",
+          "price": 859,
+          "category": "Long Validity",
+          "validityDays": 84,
+          "dailyDataGB": 1.5,
+          "unlimitedCalls": true,
+          "smsPerDay": 100,
+          "fiveG": true,
+          "ott": [],
+          "benefits": [
+            "Unlimited Calls",
+            "100 SMS/day",
+            "Unlimited 5G"
+          ],
+          "popular": true,
+          "active": true,
+          "sortOrder": 10
+        },
+        {
+          "id": "AIR-P-979-84-2",
+          "operator": "Airtel",
+          "name": "₹979 Prepaid",
+          "price": 979,
+          "category": "Long Validity",
+          "validityDays": 84,
+          "dailyDataGB": 2,
+          "unlimitedCalls": true,
+          "smsPerDay": 100,
+          "fiveG": true,
+          "ott": [],
+          "benefits": [
+            "Unlimited Calls",
+            "100 SMS/day",
+            "Unlimited 5G"
+          ],
+          "popular": true,
+          "active": true,
+          "sortOrder": 11
+        },
+        {
+          "id": "AIR-P-1199-84-2.5",
+          "operator": "Airtel",
+          "name": "₹1199 Prepaid",
+          "price": 1199,
+          "category": "Long Validity",
+          "validityDays": 84,
+          "dailyDataGB": 2.5,
+          "unlimitedCalls": true,
+          "smsPerDay": 100,
+          "fiveG": true,
+          "ott": [],
+          "benefits": [
+            "Unlimited Calls",
+            "100 SMS/day",
+            "Unlimited 5G"
+          ],
+          "popular": true,
+          "active": true,
+          "sortOrder": 12
+        },
+        {
+          "id": "AIR-P-1999-365-2",
+          "operator": "Airtel",
+          "name": "₹1999 Annual",
+          "price": 1999,
+          "category": "Long Validity",
+          "validityDays": 365,
+          "dailyDataGB": 2,
+          "unlimitedCalls": true,
+          "smsPerDay": 100,
+          "fiveG": true,
+          "ott": [],
+          "benefits": [
+            "Unlimited Calls",
+            "100 SMS/day",
+            "Unlimited 5G"
+          ],
+          "popular": true,
+          "active": true,
+          "sortOrder": 13
+        },
+        {
+          "id": "AIR-P-3599-365-2.5",
+          "operator": "Airtel",
+          "name": "₹3599 Annual",
+          "price": 3599,
+          "category": "Long Validity",
+          "validityDays": 365,
+          "dailyDataGB": 2.5,
+          "unlimitedCalls": true,
+          "smsPerDay": 100,
+          "fiveG": true,
+          "ott": [],
+          "benefits": [
+            "Unlimited Calls",
+            "100 SMS/day",
+            "Unlimited 5G"
+          ],
+          "popular": true,
+          "active": true,
+          "sortOrder": 14
+        }
+      ]
+    },
+    "Jio": {
+      "version": "2026.2",
+      "updatedAt": "2026-10-20",
+      "operator": "Jio",
+      "note": "Prices from the list provided on 2026-10-20 (price, validity, data only).",
+      "plans": [
+        {
+          "id": "JIO-P-198-14-2",
+          "operator": "Jio",
+          "name": "₹198 Prepaid",
+          "price": 198,
+          "category": "Popular",
+          "validityDays": 14,
+          "dailyDataGB": 2,
+          "unlimitedCalls": true,
+          "smsPerDay": 100,
+          "fiveG": true,
+          "ott": [],
+          "benefits": [
+            "2 GB/day",
+            "Unlimited 5G"
+          ],
+          "popular": true,
+          "active": true,
+          "sortOrder": 1
+        },
+        {
+          "id": "JIO-P-239-22-1.5",
+          "operator": "Jio",
+          "name": "₹239 Prepaid",
+          "price": 239,
+          "category": "Popular",
+          "validityDays": 22,
+          "dailyDataGB": 1.5,
+          "unlimitedCalls": true,
+          "smsPerDay": 100,
+          "fiveG": false,
+          "ott": [],
+          "benefits": [
+            "1.5 GB/day"
+          ],
+          "popular": true,
+          "active": true,
+          "sortOrder": 2
+        },
+        {
+          "id": "JIO-P-200-28-30T",
+          "operator": "Jio",
+          "name": "₹200 Prepaid",
+          "price": 200,
+          "category": "Data",
+          "validityDays": 28,
+          "totalDataGB": 30,
+          "unlimitedCalls": true,
+          "smsPerDay": 0,
+          "fiveG": false,
+          "ott": [],
+          "benefits": [
+            "30 GB total"
+          ],
+          "popular": false,
+          "active": true,
+          "sortOrder": 3
+        },
+        {
+          "id": "JIO-P-299-28-1.5",
+          "operator": "Jio",
+          "name": "₹299 Prepaid",
+          "price": 299,
+          "category": "Popular",
+          "validityDays": 28,
+          "dailyDataGB": 1.5,
+          "unlimitedCalls": true,
+          "smsPerDay": 100,
+          "fiveG": false,
+          "ott": [],
+          "benefits": [
+            "1.5 GB/day"
+          ],
+          "popular": true,
+          "active": true,
+          "sortOrder": 4
+        },
+        {
+          "id": "JIO-P-329-28-1.5",
+          "operator": "Jio",
+          "name": "₹329 Prepaid",
+          "price": 329,
+          "category": "Popular",
+          "validityDays": 28,
+          "dailyDataGB": 1.5,
+          "unlimitedCalls": true,
+          "smsPerDay": 100,
+          "fiveG": false,
+          "ott": [],
+          "benefits": [
+            "1.5 GB/day"
+          ],
+          "popular": false,
+          "active": true,
+          "sortOrder": 5
+        },
+        {
+          "id": "JIO-P-349-28-2",
+          "operator": "Jio",
+          "name": "₹349 Prepaid",
+          "price": 349,
+          "category": "Popular",
+          "validityDays": 28,
+          "dailyDataGB": 2,
+          "unlimitedCalls": true,
+          "smsPerDay": 100,
+          "fiveG": true,
+          "ott": [],
+          "benefits": [
+            "2 GB/day",
+            "Unlimited 5G"
+          ],
+          "popular": true,
+          "active": true,
+          "sortOrder": 6
+        },
+        {
+          "id": "JIO-P-399-28-2.5",
+          "operator": "Jio",
+          "name": "₹399 Prepaid",
+          "price": 399,
+          "category": "Popular",
+          "validityDays": 28,
+          "dailyDataGB": 2.5,
+          "unlimitedCalls": true,
+          "smsPerDay": 100,
+          "fiveG": true,
+          "ott": [],
+          "benefits": [
+            "2.5 GB/day",
+            "Unlimited 5G"
+          ],
+          "popular": true,
+          "active": true,
+          "sortOrder": 7
+        },
+        {
+          "id": "JIO-P-445-28-2",
+          "operator": "Jio",
+          "name": "₹445 Prepaid",
+          "price": 445,
+          "category": "Popular",
+          "validityDays": 28,
+          "dailyDataGB": 2,
+          "unlimitedCalls": true,
+          "smsPerDay": 100,
+          "fiveG": true,
+          "ott": [],
+          "benefits": [
+            "2 GB/day",
+            "Unlimited 5G"
+          ],
+          "popular": false,
+          "active": true,
+          "sortOrder": 8
+        },
+        {
+          "id": "JIO-P-449-28-3",
+          "operator": "Jio",
+          "name": "₹449 Prepaid",
+          "price": 449,
+          "category": "Popular",
+          "validityDays": 28,
+          "dailyDataGB": 3,
+          "unlimitedCalls": true,
+          "smsPerDay": 100,
+          "fiveG": true,
+          "ott": [],
+          "benefits": [
+            "3 GB/day",
+            "Unlimited 5G"
+          ],
+          "popular": true,
+          "active": true,
+          "sortOrder": 9
+        },
+        {
+          "id": "JIO-P-459-28-2",
+          "operator": "Jio",
+          "name": "₹459 Prepaid",
+          "price": 459,
+          "category": "Popular",
+          "validityDays": 28,
+          "dailyDataGB": 2,
+          "unlimitedCalls": true,
+          "smsPerDay": 100,
+          "fiveG": true,
+          "ott": [],
+          "benefits": [
+            "2 GB/day",
+            "+5 GB bonus data",
+            "Unlimited 5G"
+          ],
+          "popular": false,
+          "active": true,
+          "sortOrder": 10
+        },
+        {
+          "id": "JIO-P-500-28-2",
+          "operator": "Jio",
+          "name": "₹500 Prepaid",
+          "price": 500,
+          "category": "Popular",
+          "validityDays": 28,
+          "dailyDataGB": 2,
+          "unlimitedCalls": true,
+          "smsPerDay": 100,
+          "fiveG": true,
+          "ott": [],
+          "benefits": [
+            "2 GB/day",
+            "Unlimited 5G"
+          ],
+          "popular": false,
+          "active": true,
+          "sortOrder": 11
+        },
+        {
+          "id": "JIO-P-149-30-10T",
+          "operator": "Jio",
+          "name": "₹149 Prepaid",
+          "price": 149,
+          "category": "Data",
+          "validityDays": 30,
+          "totalDataGB": 10,
+          "unlimitedCalls": true,
+          "smsPerDay": 0,
+          "fiveG": false,
+          "ott": [],
+          "benefits": [
+            "10 GB total"
+          ],
+          "popular": false,
+          "active": true,
+          "sortOrder": 12
+        },
+        {
+          "id": "JIO-P-319-30-1.5",
+          "operator": "Jio",
+          "name": "₹319 Prepaid",
+          "price": 319,
+          "category": "Popular",
+          "validityDays": 30,
+          "dailyDataGB": 1.5,
+          "unlimitedCalls": true,
+          "smsPerDay": 100,
+          "fiveG": false,
+          "ott": [],
+          "benefits": [
+            "1.5 GB/day",
+            "Calendar-month validity"
+          ],
+          "popular": false,
+          "active": true,
+          "sortOrder": 13
+        },
+        {
+          "id": "JIO-P-355-30-25T",
+          "operator": "Jio",
+          "name": "₹355 Prepaid",
+          "price": 355,
+          "category": "Data",
+          "validityDays": 30,
+          "totalDataGB": 25,
+          "unlimitedCalls": true,
+          "smsPerDay": 0,
+          "fiveG": false,
+          "ott": [],
+          "benefits": [
+            "25 GB total"
+          ],
+          "popular": false,
+          "active": true,
+          "sortOrder": 14
+        },
+        {
+          "id": "JIO-P-450-36-2",
+          "operator": "Jio",
+          "name": "₹450 Prepaid",
+          "price": 450,
+          "category": "Unlimited",
+          "validityDays": 36,
+          "dailyDataGB": 2,
+          "unlimitedCalls": true,
+          "smsPerDay": 100,
+          "fiveG": true,
+          "ott": [],
+          "benefits": [
+            "2 GB/day",
+            "Unlimited 5G"
+          ],
+          "popular": false,
+          "active": true,
+          "sortOrder": 15
+        },
+        {
+          "id": "JIO-P-579-56-1.5",
+          "operator": "Jio",
+          "name": "₹579 Prepaid",
+          "price": 579,
+          "category": "Unlimited",
+          "validityDays": 56,
+          "dailyDataGB": 1.5,
+          "unlimitedCalls": true,
+          "smsPerDay": 100,
+          "fiveG": false,
+          "ott": [],
+          "benefits": [
+            "1.5 GB/day"
+          ],
+          "popular": true,
+          "active": true,
+          "sortOrder": 16
+        },
+        {
+          "id": "JIO-P-629-56-2",
+          "operator": "Jio",
+          "name": "₹629 Prepaid",
+          "price": 629,
+          "category": "Unlimited",
+          "validityDays": 56,
+          "dailyDataGB": 2,
+          "unlimitedCalls": true,
+          "smsPerDay": 100,
+          "fiveG": true,
+          "ott": [],
+          "benefits": [
+            "2 GB/day",
+            "Unlimited 5G"
+          ],
+          "popular": true,
+          "active": true,
+          "sortOrder": 17
+        },
+        {
+          "id": "JIO-P-666-70-1.5",
+          "operator": "Jio",
+          "name": "₹666 Prepaid",
+          "price": 666,
+          "category": "Unlimited",
+          "validityDays": 70,
+          "dailyDataGB": 1.5,
+          "unlimitedCalls": true,
+          "smsPerDay": 100,
+          "fiveG": false,
+          "ott": [],
+          "benefits": [
+            "1.5 GB/day"
+          ],
+          "popular": false,
+          "active": true,
+          "sortOrder": 18
+        },
+        {
+          "id": "JIO-P-719-70-2",
+          "operator": "Jio",
+          "name": "₹719 Prepaid",
+          "price": 719,
+          "category": "Unlimited",
+          "validityDays": 70,
+          "dailyDataGB": 2,
+          "unlimitedCalls": true,
+          "smsPerDay": 100,
+          "fiveG": true,
+          "ott": [],
+          "benefits": [
+            "2 GB/day",
+            "Unlimited 5G"
+          ],
+          "popular": true,
+          "active": true,
+          "sortOrder": 19
+        },
+        {
+          "id": "JIO-P-749-72-2",
+          "operator": "Jio",
+          "name": "₹749 Prepaid",
+          "price": 749,
+          "category": "Unlimited",
+          "validityDays": 72,
+          "dailyDataGB": 2,
+          "unlimitedCalls": true,
+          "smsPerDay": 100,
+          "fiveG": true,
+          "ott": [],
+          "benefits": [
+            "2 GB/day",
+            "+20 GB bonus data",
+            "Unlimited 5G"
+          ],
+          "popular": false,
+          "active": true,
+          "sortOrder": 20
+        },
+        {
+          "id": "JIO-P-859-84-2",
+          "operator": "Jio",
+          "name": "₹859 Prepaid",
+          "price": 859,
+          "category": "Long Validity",
+          "validityDays": 84,
+          "dailyDataGB": 2,
+          "unlimitedCalls": true,
+          "smsPerDay": 100,
+          "fiveG": true,
+          "ott": [],
+          "benefits": [
+            "2 GB/day",
+            "Unlimited 5G"
+          ],
+          "popular": true,
+          "active": true,
+          "sortOrder": 21
+        },
+        {
+          "id": "JIO-P-889-84-1.5",
+          "operator": "Jio",
+          "name": "₹889 Prepaid",
+          "price": 889,
+          "category": "Long Validity",
+          "validityDays": 84,
+          "dailyDataGB": 1.5,
+          "unlimitedCalls": true,
+          "smsPerDay": 100,
+          "fiveG": false,
+          "ott": [],
+          "benefits": [
+            "1.5 GB/day"
+          ],
+          "popular": true,
+          "active": true,
+          "sortOrder": 22
+        },
+        {
+          "id": "JIO-P-949-84-2",
+          "operator": "Jio",
+          "name": "₹949 Prepaid",
+          "price": 949,
+          "category": "Long Validity",
+          "validityDays": 84,
+          "dailyDataGB": 2,
+          "unlimitedCalls": true,
+          "smsPerDay": 100,
+          "fiveG": true,
+          "ott": [],
+          "benefits": [
+            "2 GB/day",
+            "Unlimited 5G"
+          ],
+          "popular": false,
+          "active": true,
+          "sortOrder": 23
+        },
+        {
+          "id": "JIO-P-1028-84-2",
+          "operator": "Jio",
+          "name": "₹1028 Prepaid",
+          "price": 1028,
+          "category": "Long Validity",
+          "validityDays": 84,
+          "dailyDataGB": 2,
+          "unlimitedCalls": true,
+          "smsPerDay": 100,
+          "fiveG": true,
+          "ott": [],
+          "benefits": [
+            "2 GB/day",
+            "Unlimited 5G"
+          ],
+          "popular": false,
+          "active": true,
+          "sortOrder": 24
+        },
+        {
+          "id": "JIO-P-1029-84-2",
+          "operator": "Jio",
+          "name": "₹1029 Prepaid",
+          "price": 1029,
+          "category": "Long Validity",
+          "validityDays": 84,
+          "dailyDataGB": 2,
+          "unlimitedCalls": true,
+          "smsPerDay": 100,
+          "fiveG": true,
+          "ott": [],
+          "benefits": [
+            "2 GB/day",
+            "Unlimited 5G"
+          ],
+          "popular": false,
+          "active": true,
+          "sortOrder": 25
+        },
+        {
+          "id": "JIO-P-1049-84-2",
+          "operator": "Jio",
+          "name": "₹1049 Prepaid",
+          "price": 1049,
+          "category": "Long Validity",
+          "validityDays": 84,
+          "dailyDataGB": 2,
+          "unlimitedCalls": true,
+          "smsPerDay": 100,
+          "fiveG": true,
+          "ott": [],
+          "benefits": [
+            "2 GB/day",
+            "Unlimited 5G"
+          ],
+          "popular": false,
+          "active": true,
+          "sortOrder": 26
+        },
+        {
+          "id": "JIO-P-1199-84-3",
+          "operator": "Jio",
+          "name": "₹1199 Prepaid",
+          "price": 1199,
+          "category": "Long Validity",
+          "validityDays": 84,
+          "dailyDataGB": 3,
+          "unlimitedCalls": true,
+          "smsPerDay": 100,
+          "fiveG": true,
+          "ott": [],
+          "benefits": [
+            "3 GB/day",
+            "Unlimited 5G"
+          ],
+          "popular": true,
+          "active": true,
+          "sortOrder": 27
+        },
+        {
+          "id": "JIO-P-1299-84-2",
+          "operator": "Jio",
+          "name": "₹1299 Prepaid",
+          "price": 1299,
+          "category": "Long Validity",
+          "validityDays": 84,
+          "dailyDataGB": 2,
+          "unlimitedCalls": true,
+          "smsPerDay": 100,
+          "fiveG": true,
+          "ott": [],
+          "benefits": [
+            "2 GB/day",
+            "Unlimited 5G"
+          ],
+          "popular": false,
+          "active": true,
+          "sortOrder": 28
+        },
+        {
+          "id": "JIO-P-1799-84-3",
+          "operator": "Jio",
+          "name": "₹1799 Prepaid",
+          "price": 1799,
+          "category": "Long Validity",
+          "validityDays": 84,
+          "dailyDataGB": 3,
+          "unlimitedCalls": true,
+          "smsPerDay": 100,
+          "fiveG": true,
+          "ott": [],
+          "benefits": [
+            "3 GB/day",
+            "Unlimited 5G"
+          ],
+          "popular": false,
+          "active": true,
+          "sortOrder": 29
+        },
+        {
+          "id": "JIO-P-899-90-2",
+          "operator": "Jio",
+          "name": "₹899 Prepaid",
+          "price": 899,
+          "category": "Long Validity",
+          "validityDays": 90,
+          "dailyDataGB": 2,
+          "unlimitedCalls": true,
+          "smsPerDay": 100,
+          "fiveG": true,
+          "ott": [],
+          "benefits": [
+            "2 GB/day",
+            "+20 GB bonus data",
+            "Unlimited 5G"
+          ],
+          "popular": false,
+          "active": true,
+          "sortOrder": 30
+        },
+        {
+          "id": "JIO-P-999-98-2",
+          "operator": "Jio",
+          "name": "₹999 Prepaid",
+          "price": 999,
+          "category": "Long Validity",
+          "validityDays": 98,
+          "dailyDataGB": 2,
+          "unlimitedCalls": true,
+          "smsPerDay": 100,
+          "fiveG": true,
+          "ott": [],
+          "benefits": [
+            "2 GB/day",
+            "Unlimited 5G"
+          ],
+          "popular": false,
+          "active": true,
+          "sortOrder": 31
+        },
+        {
+          "id": "JIO-P-2025-200-2.5",
+          "operator": "Jio",
+          "name": "₹2025 Prepaid",
+          "price": 2025,
+          "category": "Long Validity",
+          "validityDays": 200,
+          "dailyDataGB": 2.5,
+          "unlimitedCalls": true,
+          "smsPerDay": 100,
+          "fiveG": true,
+          "ott": [],
+          "benefits": [
+            "2.5 GB/day",
+            "Unlimited 5G"
+          ],
+          "popular": false,
+          "active": true,
+          "sortOrder": 32
+        },
+        {
+          "id": "JIO-P-3599-365-2.5",
+          "operator": "Jio",
+          "name": "₹3599 Prepaid",
+          "price": 3599,
+          "category": "Long Validity",
+          "validityDays": 365,
+          "dailyDataGB": 2.5,
+          "unlimitedCalls": true,
+          "smsPerDay": 100,
+          "fiveG": true,
+          "ott": [],
+          "benefits": [
+            "2.5 GB/day",
+            "Unlimited 5G"
+          ],
+          "popular": true,
+          "active": true,
+          "sortOrder": 33
+        },
+        {
+          "id": "JIO-P-3999-365-2.5",
+          "operator": "Jio",
+          "name": "₹3999 Prepaid",
+          "price": 3999,
+          "category": "Long Validity",
+          "validityDays": 365,
+          "dailyDataGB": 2.5,
+          "unlimitedCalls": true,
+          "smsPerDay": 100,
+          "fiveG": true,
+          "ott": [],
+          "benefits": [
+            "2.5 GB/day",
+            "Unlimited 5G"
+          ],
+          "popular": false,
+          "active": true,
+          "sortOrder": 34
+        }
+      ]
+    }
+  }
+}
