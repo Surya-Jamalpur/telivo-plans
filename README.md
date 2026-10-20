@@ -11,7 +11,9 @@ no user data.
    for a second change on the same day). Phones only accept a newer
    `updatedAt`, so an older file can never roll prices back.
 3. Run `npm run build:plans -- ../telivo-plans/plan-catalog.json`.
-4. Commit and push this repo. Phones pick it up within ~12 hours.
+4. Commit and push this repo. Phones pick it up within ~12 hours, or when
+   the user taps refresh on the dashboard. GitHub can take up to ~5 minutes
+   to serve a just-pushed change.
 
 The app validates the file before using it: a broken or partial file is
 ignored and users keep their current plans.
